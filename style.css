@@ -1,5 +1,8 @@
 .tx {
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-decoration: none;
     color: white;
     font-family: sans-serif;
