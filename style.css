@@ -1,4 +1,5 @@
 .tx {
+    margin-top: 12px;
     text-align: center;
     text-decoration: none;
     color:#FFFFFF;
@@ -6,6 +7,7 @@
 }
 
 .lk {
+    margin-top: 12px;
     display: flex;
     justify-content: center;
     align-items: center;
