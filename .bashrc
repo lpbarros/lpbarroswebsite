@@ -1,7 +1,0 @@
-alias dtxz='tar -xJf'
-alias dtgz='tar -zxvf'
-alias dtbz2='tar -jxvf'
-alias ctgz='tar -cvzf'
-alias ctxz='tar -Jcvf'
-alias ctbz2='tar -cvjf'
-alias upug='sudo apt upgrade -y && sudo apt update -y'
