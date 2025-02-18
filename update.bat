@@ -1,3 +1,3 @@
 git add *
 git commit -m aaaaa -a
-git push
+git push --set-upstream origin main.old
